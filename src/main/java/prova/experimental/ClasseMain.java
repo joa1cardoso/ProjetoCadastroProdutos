@@ -23,7 +23,7 @@ public class ClasseMain {
 
             switch (opcao){
                 case 1:
-                    cadastroProduto.cadastrar();
+                    cadastroProduto.cadastrarProdutos();
                     listagemProduto.listar();
                     break;
                 case 2:

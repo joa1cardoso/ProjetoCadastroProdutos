@@ -14,7 +14,7 @@ public class CadastroProduto {
     }
 
 
-    public void cadastrar(){
+    public void cadastrarProdutos(){
         System.out.println("Cadastro de Produtos");
 
         System.out.println("Nome do Produto: ");
